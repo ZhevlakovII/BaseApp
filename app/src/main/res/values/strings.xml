@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="profile_screen_label">Profile Screen</string>
+    <string name="chat_screen_label">Chat Screen</string>
+    <string name="booking_screen_label">Booking Screen</string>
+    <string name="map_screen_label">Map Screen</string>
+    <string name="retry_button_text">Get data again</string>
+    <string name="empty_home_data">Can\'t download data or data is empty :(</string>
+</resources>
